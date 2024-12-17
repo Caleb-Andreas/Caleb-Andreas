@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Caleb Andreas and I am a student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
 
 <!--
 **Caleb-Andreas/Caleb-Andreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
