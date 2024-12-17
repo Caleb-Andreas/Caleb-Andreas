@@ -12,7 +12,7 @@ My name is Caleb Andreas and I am a computer science student at <a href="http://
 
 ## Tools
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Microsoft MakeCode]<img class="ui  logo" src="(https://pxt.azureedge.net/blob/d955ce94fc3f7d2c6573300c71a56dc1d92c9bf0/static/logo.portrait.white.svg" alt="micro:bit Logo)">
+  ![Microsoft MakeCode](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH30q7OpX0Z274ueVs9EgWziniCwiNGIgt77Pu9jUJB_DG_0yq00kd-lpRCJLtMDOFkm0&usqp=CAU)
 <!--
 **Caleb-Andreas/Caleb-Andreas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
