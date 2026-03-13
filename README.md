@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Caleb Andreas and I am a computer science/emgineering student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
+My name is Caleb Andreas and I am a computer science/engineering student at <a href="http://mths.ca">St. Mother Teresa HS</a>, Ottawa, Canada.</p>
 
 ## Programming Languages
   <a href="https://github.com/search?q=user%3ACaleb-Andreas+language%3Ac"><img alt="C" src="https://custom-icon-badges.herokuapp.com/badge/C-%2300599C.svg?logo=cpp2&logoColor=white"></a>
